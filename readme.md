@@ -1,6 +1,10 @@
 JAvascript events
 
+events in js
+https://developer.mozilla.org/en-US/docs/Web/Events
 
+Keyboard key code
+https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
 
 Note: Callback Functions
 In the previous video you saw something interesting:
